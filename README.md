@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pamone74 You can call me Patrick
 - 🌱 I’m currently learning  C++ 
 - 💞️ I’m looking to collaborate on any projects...
-- 📫 How to reach me: amonepatrick.com
+- 📫 How to reach me: http://www.amonepatrick.com
 - 
 
 <!---
